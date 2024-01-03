@@ -1,0 +1,1 @@
+# odoo_practique_modulo
